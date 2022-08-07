@@ -44,7 +44,7 @@ class ImageExtractor {
                 }
             }
 
-            // Creating new list to store link
+            // Creating new list to image url link
             val imageUrls = arrayListOf<String>()
 
             // Extracting image url from the list
